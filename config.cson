@@ -1,0 +1,25 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "51c09fb7-7b4b-4508-aa91-2f673a75aa7d"
+  core:
+    disabledPackages: [
+      "linter-jshint"
+      "linter"
+      "atom-beautify"
+    ]
+    themes: [
+      "seti-ui"
+      "atom-monokai"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "5519c52a-11b9-144c-59b2-baac6448091e"
+  minimap:
+    absoluteMode: true
+    adjustAbsoluteModeHeight: true
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
